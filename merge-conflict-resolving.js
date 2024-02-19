@@ -1,4 +1,4 @@
 const conflict = true;
 if(conflict){
-    return 1*0;
+    return 1*34;
 }
